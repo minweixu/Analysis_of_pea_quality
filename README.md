@@ -3,7 +3,7 @@ This repository contains a structured analysis pipeline for pea quality assessme
 
 The repository is intended to provide a transparent and reproducible framework for evaluating pea quality at both seed and flour levels.
 
-Repository Structure
+## Repository Structure
 
 The repository is organized according to the analytical workflow:
 
@@ -22,7 +22,7 @@ K-means clustering for multivariate quality integration and overall quality clas
 pea_patch_dataset.zip
 Patch-level hyperspectral dataset used for patch-level model training and sample-level prediction via soft voting.
 
-Analysis Workflow
+## Analysis Workflow
 
 Quantitative Modeling
 PLSR is used as a baseline chemometric approach to model spectral–quality relationships at seed and flour levels.
@@ -33,8 +33,7 @@ Each quality parameter is classified independently to assess its spectral observ
 Integrated Quality Classification
 HCA and k-means clustering are applied to combine multiple quality attributes and derive holistic pea quality classes.
 
-
-Notes
+## Notes
 
 Scripts use relative paths for portability.
 
