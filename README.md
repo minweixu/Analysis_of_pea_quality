@@ -33,6 +33,10 @@ Each quality parameter is classified independently to assess its spectral observ
 Integrated Quality Classification
 HCA and k-means clustering are applied to combine multiple quality attributes and derive holistic pea quality classes.
 
+## Requirements
+
+The analysis is implemented in Python and relies on common scientific computing and machine learning libraries, including numpy, pandas, scipy, scikit-learn, matplotlib, xgboost, and optionally lightgbm. Specific environment configurations can be adapted as needed.
+
 ## Notes
 
 Scripts use relative paths for portability.
