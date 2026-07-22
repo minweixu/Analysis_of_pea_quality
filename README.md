@@ -45,7 +45,7 @@ Seven quality indicators were analyzed:
 
 ## Models
 
-Regression models include PLSR, SVR, Ridge, Elastic Net, Random Forest, and Extra Trees.
+Regression models include PLSR, SVR, Ridge, and Elastic Net.
 
 Classification models include Logistic Regression, SVM, Random Forest, Extra Trees, and Soft Voting.
 
